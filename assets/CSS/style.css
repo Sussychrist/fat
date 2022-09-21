@@ -337,7 +337,7 @@ html {
 }
 
 /*MAP*/
-.map-section img {
+.map-section iframe {
   width: 100%;
 }
 
